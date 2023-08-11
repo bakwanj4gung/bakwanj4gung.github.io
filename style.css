@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto);
+@import url(https://fonts.googleapis.com/css2?family=Poppins);
+
+*   {
+    font-family: poppins;
+}
+
+table   {
+    text-align: center;
+}
+
+.alat   {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.transisi:hover {
+    background-color: pink;
+}
+
+.tombol    {
+    margin-top: 30px;
+}
+
+.btn-login  {
+    padding: 6px 13px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #DBC4F0;
+
+}
+
+.btn-login:hover    {
+    padding: 6px 13px;
+    font-size: 16px;
+    border: none;
+    background-color: #545B77;
+    color: white;
+}
